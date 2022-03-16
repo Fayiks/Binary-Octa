@@ -1,0 +1,5 @@
+C:\Users\my\source\repos\BinaryCalc\obj\Debug\BinaryCalc.csprojAssemblyReference.cache
+C:\Users\my\source\repos\BinaryCalc\obj\Debug\BinaryCalc.Properties.Resources.resources
+C:\Users\my\source\repos\BinaryCalc\obj\Debug\BinaryCalc.csproj.GenerateResource.cache
+C:\Users\my\source\repos\BinaryCalc\obj\Debug\BinaryCalc.exe
+C:\Users\my\source\repos\BinaryCalc\obj\Debug\BinaryCalc.pdb

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryCalc", "BinaryCalc.csproj", "{C0F5643F-453A-46FE-9FBD-00B1A3040A12}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Bincta", "..\..\..\Desktop\Project Setups\Bincta\Bincta.vdproj", "{B6C807D6-A63F-490E-B395-3EFEA648BF39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0F5643F-453A-46FE-9FBD-00B1A3040A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0F5643F-453A-46FE-9FBD-00B1A3040A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0F5643F-453A-46FE-9FBD-00B1A3040A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0F5643F-453A-46FE-9FBD-00B1A3040A12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6C807D6-A63F-490E-B395-3EFEA648BF39}.Debug|Any CPU.ActiveCfg = Debug
+		{B6C807D6-A63F-490E-B395-3EFEA648BF39}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54F458BC-2114-4F04-A13D-EDDC86CDC696}
+	EndGlobalSection
+EndGlobal
